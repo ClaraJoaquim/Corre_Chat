@@ -12,6 +12,7 @@ Este projeto foi desenvolvido como parte da **3ª Edição da Imersão IA da Alu
 
 🎬 Veja como o Corre Chat funciona na prática!  
 Neste exemplo, você acompanha todo o fluxo de criação de uma planilha personalizada, desde a entrada dos dados até a entrega final do treino.
+
 ---
 
 ## 🧠 Como funciona?
