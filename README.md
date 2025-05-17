@@ -6,6 +6,14 @@ Este projeto foi desenvolvido como parte da **3ª Edição da Imersão IA da Alu
 
 ---
 
+## 📽️ Demostração do Corre Chat
+
+![Demonstração do Corre Chat](media/Demonstracao_Corre_Chat.gif)
+
+🎬 Veja como o Corre Chat funciona na prática!  
+Neste exemplo, você acompanha todo o fluxo de criação de uma planilha personalizada, desde a entrada dos dados até a entrega final do treino.
+---
+
 ## 🧠 Como funciona?
 
 O Corre Chat é composto por uma **cadeia de agentes inteligentes**, cada um com uma função específica no fluxo de criação de uma planilha de corrida personalizada:
@@ -66,4 +74,4 @@ Este projeto foi criado como parte da **Imersão IA 3ª Edição da Alura**, com
 ## 📬 Contato
 
 Desenvolvido por **Clara Joaquim**  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)
+🔗 [LinkedIn](https://www.linkedin.com/in/clarajoaquim/)
